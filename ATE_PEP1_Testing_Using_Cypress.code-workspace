@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ATE_PEP1_Testing_Using_Cypress"
+		},
+		{
+			"path": "../../../../../../Kilo_Workspace"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "./node_modules/typescript/lib"
+	}
+}
